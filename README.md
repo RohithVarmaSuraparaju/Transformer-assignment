@@ -14,7 +14,6 @@ All implementations are fully functional, clean, and easy to test inside the pro
 
 ## 📌 Contents
 - `Attention_Transformer_Assignment.ipynb` – Main notebook with both solutions
-- (Optional) `requirements.txt` – Dependencies for NumPy & PyTorch
 
 ---
 

@@ -1,3 +1,6 @@
+Name : Rohith Varma Suraparaju
+ID : 700771851
+
 # Transformer Assignment – Scaled Dot-Product Attention & Encoder Block
 
 This repository contains solutions to two core transformer architecture components:
